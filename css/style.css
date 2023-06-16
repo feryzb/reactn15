@@ -7,5 +7,17 @@ h1 {
   text-align: center;
   color: red;
   font-style: 50px;
-  margin-top: 150px;
+  /* margin-top: 150px; */
+}
+body {
+  margin: 0 auto;
+}
+.border {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+  align-items: center;
+  border: 2px solid teal;
+  border-radius: 10px;
+  background: green;
 }
